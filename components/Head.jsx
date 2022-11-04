@@ -1,7 +1,7 @@
 import React from 'react';
 import Head from 'next/head'
 
-const Head = () => {
+const HeadSematic = () => {
   return (
     <Head>
       <title>Descovery Task</title>
@@ -11,4 +11,4 @@ const Head = () => {
   );
 };
 
-export default Head;
+export default HeadSematic;
